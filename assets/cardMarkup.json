@@ -1,0 +1,17 @@
+[
+    {
+        "id": "1",
+        "src": "/_nuxt/static/system.svg",
+        "titulo": "Web development"
+    },
+    {
+        "id": "2",
+        "src": "/_nuxt/static/landing.svg",
+        "titulo": "Landing Page"
+    },
+    {
+        "id": "3",
+        "src": "/_nuxt/static/ecommerce.svg",
+        "titulo": "Ecommerce"
+    }
+]
