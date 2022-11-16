@@ -34,6 +34,7 @@ export default {
   position: fixed;
 }
 .fondo_black {
+  height: 100vh;
   background: linear-gradient(
       to right,
       rgba(35, 38, 55, 0.8),
