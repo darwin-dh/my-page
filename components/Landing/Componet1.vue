@@ -12,7 +12,7 @@
       </article>
       <v-btn
       to="/about"
-        class="purple darken-1"
+        class="blue darken-1"
         color="white"
         dark
         elevation="3"
